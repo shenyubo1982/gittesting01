@@ -22,6 +22,11 @@ step2.git commit -m "注释"
 step3.git push
 
 
+#shenyuboqq：21/23
+为github上的项目添加一个项目参与者：shenyuboqq
+1.用主账号，在项目设置中添加参与者，参与者会收到邮件，同意后便可加入到项目中。
+
+
 
 
 
