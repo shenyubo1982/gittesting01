@@ -244,3 +244,7 @@ print(python2.__closure__)
 print(python2.__closure__[0].cell_contents)
 print(python2.__closure__[1].cell_contents)
 print("func.__closure__的内部信息↑")
+
+##这里shenyuboqq添加的内容用来测试git获取服务上的commit号 test01 start
+print("git testing by shenyuboqq")
+##这里shenyuboqq添加的内容用来测试git获取服务上的commit号 test01 end
