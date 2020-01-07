@@ -9,7 +9,7 @@ function sayhello() {
   date
 }
 
-function getDirectory() {
+function getDirectory() ￿{
   printf "please Input file name: "
   read file_name
   # vared -p 'What would you like to do?: ' -c tmp
